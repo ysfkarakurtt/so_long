@@ -3,7 +3,7 @@
 ![so_long](https://github.com/ysfkarakurtt/so_long/assets/112905860/fca03ad1-f687-43cd-af9e-7bfc0aa3537b)
 
 
-# "So_long - And thanks for all the fish!”
+# "So_long”
 </div>
 
 Bu proje çok küçük bir 2D oyundur.
