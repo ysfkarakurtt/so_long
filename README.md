@@ -6,7 +6,7 @@
 # "so_long”
 </div>
 
-Bu proje çok küçük bir 2D oyundur.
+Bu proje küçük bir 2D oyundur.
 Amacı textures, sprites ve diğer bazı temel gameplay elementleri ile çalışmanızı sağlamaktır.
 
 
