@@ -10,13 +10,21 @@ Bu proje çok küçük bir 2D oyundur.
 Amacı textures, sprites ve diğer bazı temel gameplay elementleri ile çalışmanızı sağlamaktır.
 
 
-https://github.com/ysfkarakurtt/so_long/assets/112905860/0a066cc2-8835-47bf-83d6-b628459c43fb
+
+https://github.com/ysfkarakurtt/so_long/assets/112905860/0b28439e-40df-4d72-89fb-02c0a07b5fc5
 
 
-https://github.com/ysfkarakurtt/so_long/assets/112905860/840c7ba2-0dbc-45d9-89cc-79d8422fc137
 
 
-https://github.com/ysfkarakurtt/so_long/assets/112905860/b886ed03-ad2c-4dca-80c0-af2773cff625
+https://github.com/ysfkarakurtt/so_long/assets/112905860/529ba2cc-7fef-455f-953d-d9b36854fb27
+
+
+
+
+
+https://github.com/ysfkarakurtt/so_long/assets/112905860/309d5387-1a78-486b-8562-40d08a0065d0
+
+
 
 
 
